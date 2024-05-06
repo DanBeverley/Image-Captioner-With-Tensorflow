@@ -21,7 +21,6 @@ Image Captioning empowers computers to describe images just like humans do. This
 
 When it comes to understanding images, we need a helping hand from specialized models. Here's where the pre-trained VGG16 model steps in. This model is like a superhero for extracting important details from images, helping us understand what's happening.
 
-![fluffy-cat.jpg](https://www.researchgate.net/publication/353925876/figure/fig2/AS:1057413557915648@1629118446024/Example-of-feature-extraction-using-a-VGG16-A-represents-the-input-layer-of-VGG16-224.ppm)
 
 ## Why VGG16?
 
